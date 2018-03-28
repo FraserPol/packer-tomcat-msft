@@ -1,0 +1,9 @@
+{
+  "azure_client_id":      "",
+  "azure_client_secret":  "",
+  "azure_subscription_id": "",
+  "azure_resource_group": "",
+  "azure_location": "",
+  "managed_image_resource_group_name": "",
+  "managed_image_name": ""
+}
